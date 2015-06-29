@@ -1,0 +1,3 @@
+include		OCTEON1
+
+options		OCTEON_MODEL=OCTEON_CN58XX_PASS1_1
